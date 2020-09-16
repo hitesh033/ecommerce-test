@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "name": "Dining Table",
+            "desc": "Table & Chairs",
+            "img": "../../assets/images/table1.jpg",
+            "price": 2600
+        },
+        {
+            "name": "Table",
+            "desc": "Table & Chairs",
+            "img": "../../assets/images/table2.jpg",
+            "price": 590
+        },
+        {
+            "name": "Sofa",
+            "desc": "Lounge",
+            "img": "../../assets/images/sofa2.jpg",
+            "price": 950
+        },
+        {
+            "name": "Sofa set",
+            "desc": "Lounge",
+            "img": "../../assets/images/sofa3.jpg",
+            "price": 890
+        },
+        {
+            "name": "Sofa with table",
+            "desc": "Lounge",
+            "img": "../../assets/images/sofa4.jpg",
+            "price": 120
+        }
+    ]
+}
